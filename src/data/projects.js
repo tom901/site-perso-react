@@ -22,7 +22,7 @@ export const projectData = [
     {   
         "id" : 3,
         "titleProject": "Analyse d’affaires",
-        "textProject": "<p>Pour savoir l’évolution de son chiffre d’affaires, IEC souhaite avoir un outil qui permet de savoir quelle est la marge réalisé sur un projet, l’avancement de la facturation…, ceci en mettant en entrée le numéro d’une commande de vente.</p>",
+        "textProject": "<p>Pour savoir l’évolution de son chiffre d’affaires, IEC souhaite avoir un outil qui permet de savoir quelle est la marge réalisée sur un projet, l’avancement de la facturation…, ceci en mettant en entrée le numéro d’une commande de vente.</p>",
         "tasks" : "<ul> <li>Interfaçage des données de Navision vers Salesforce </li><li>Contrôle de données</li><li>Design</li><li>Rédaction des spécifications techniques </li></ul>",
         "toolsUsed" : "Salesforce / Talend / Apex / Visualforce / AngularJS / CSS",
         "timeProject": "6 mois",
@@ -32,7 +32,7 @@ export const projectData = [
     {   
         "id" : 4,
         "titleProject": "Création d’un outil personnalisé de création de devis pour analyse d’affaires",
-        "textProject": "<p>Pour savoir l’évolution de son chiffre d’affaires, IEC souhaite avoir un outil qui permet de savoir quelle est la marge réalisé sur un projet, l’avancement de la facturation…, ceci en mettant en entrée le numéro d’une commande de vente.</p>",
+        "textProject": "<p>Pour savoir l’évolution de son chiffre d’affaires, IEC souhaite avoir un outil qui permet de savoir quelle est la marge réalisée sur un projet, l’avancement de la facturation…, ceci en mettant en entrée le numéro d’une commande de vente.</p>",
         "tasks" : "<ul><li> Importation et interprétation des fichiers depuis Oracle</li> <li>Interfaçage des comptes, des devis, des commandes et les tickets créés d’Oracle vers Salesforce</li> <li>Création d’un outil permettant de rattacher un devis à une opportunité</li></ul>",
         "toolsUsed" : "Salesforce / Talend / Apex / Visualforce",
         "timeProject": "2 mois",
@@ -83,7 +83,7 @@ export const projectData = [
         "id" : 9,
         "titleProject": "JL Consulting – Projet interne",
         "textProject": "<p>Réalisation d’un outil avec le framework Lightning Component afin d’avoir une meilleure visibilité lors de la création de comptes dans Salesforce.</p>",
-        "tasks" : "<ul><li>Importation des comptes dans ElasticSearch</li><li> Développment d'un formulaire pour la normalisation d'adresse postales </li></ul>",
+        "tasks" : "<ul><li>Importation des comptes dans ElasticSearch</li><li> Développement d'un formulaire pour la normalisation d'adresses postales </li></ul>",
         "toolsUsed" : "Apex / Lightning Component / ElasticSearch",
         "timeProject": "1 mois",
         "statusProject" : "En Cours",

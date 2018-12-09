@@ -14,3 +14,8 @@
     margin-top: 0;
     margin-bottom: 0rem !important;
 }
+.btn-secondary {
+    color: #fff;
+    background-color: rgb(41, 149, 212) !important;
+    border-color: #6c757d;
+}
