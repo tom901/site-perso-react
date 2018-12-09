@@ -1,0 +1,28 @@
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 700px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+	
+    .intro-divider {
+        width: 80% !important;
+    }
+}
+
+.sub-title-home{
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .sub-title-home-first{
+    font-weight: 400;
+    font-size:1.7rem;
+  }
+  .icons-social i {
+      padding: 10px;
+  }
+  .intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	margin-top: 0;
+}

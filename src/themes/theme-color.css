@@ -1,0 +1,50 @@
+/* Theme */
+
+.navbar{
+	background-color: rgb(41, 149, 212) !important;
+}
+
+
+.main-home,
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+	color: white !important;
+	/* color: rgb(41, 149, 212); */
+
+}
+
+/* home title change color hover text */
+.title-block:hover{
+    color:rgb(41, 149, 212);
+}
+
+.first {
+	background: #f7faff;
+	color: rgb(41, 149, 212);
+}
+.second{
+	background:  rgb(41, 149, 212);
+	color: #f7faff;
+}
+.icons-social a {
+	color: white;
+}
+
+.icons-social a #f7faff{
+	/* fill: rgb(41, 149, 212); */
+	fill: white;
+}
+.certification-block > a,
+.certification-block > a:link,
+.certification-block > a:visited {
+	color:white !important;
+}
+
+.text-color-white{
+	color:white;
+}
+.text-color-blue,
+.icons-social a:hover{
+	color:rgb(41, 149, 212);
+}
