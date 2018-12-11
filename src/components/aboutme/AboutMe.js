@@ -10,13 +10,13 @@ class AboutMe extends Component {
                 </a>
             </div>
             <div className="intro">A propos de moi</div>
-            <div className="tagline">Scrum Master et Développeur sur différents projets Salesforce réalisés avec succès</div>
+            <div className="tagline mb-3">Scrum Master et Développeur sur différents projets Salesforce réalisés avec succès</div>
             <div className="container">
                 <div className="row">
-                    <div>
+                    <div className="text-justify">
                         <p>Mon domaine d’activité principal est l’intégration de solutions Salesforce (CRM) ainsi que le développement de modules complémentaires personnalisés (Apex, Visualforce, Lightning Components). </p>
                         <p>J’interviens également sur des sujets annexes tels que la réalisation d’interface entre plusieurs applications (Talend), la création de nouveaux sites afin d’améliorer l’expérience de l’utilisateur (React, Angular, NodeJS, Javascript).</p>
-                        <p>Je suis certifié développeur Salesforce Admin et Platform Developer I , ce qui me permet d’intervenir sur des sujets de programmations et de paramétrages divers.</p>
+                        <p>Je suis certifié App Builder, Admin et Platform Developer I , ce qui me permet d’intervenir sur des sujets de programmations et de paramétrages divers.</p>
                     </div>
                 </div>
             </div>

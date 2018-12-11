@@ -15,8 +15,8 @@
 }
 
 /* home title change color hover text */
-.title-block:hover{
-    color:rgb(41, 149, 212);	
+.title-block{
+    color:rgb(41, 149, 212) !important;	
 }
 
 .first {
