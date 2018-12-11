@@ -7,7 +7,7 @@ class ContactMe extends Component {
                 <div className="intro">Contactez-moi</div>
                 <div className="tagline">
                     <p>Mon objectif est de vous accompagner dans la mise en place et l'utilisation de votre Salesforce</p>
-                    <p>N'hesitez pas à me contacter</p>
+                    <p>N'hésitez pas à me contacter</p>
                 </div>
                 <div >
                     <a href="mailto:thomas.paraiso@me.com?subject=Demande de renseignements complémentaires">thomas.paraiso@me.com</a>

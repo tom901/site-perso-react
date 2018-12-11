@@ -6,7 +6,7 @@ class AboutMe extends Component {
             <div className="block second  pt-5" id="aboutme">
             <div className="roundedImage">
                 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thomasparaiso">
-                    <img title="Profile LinkedIn" alt="Retrouvez moi sur Linkedin" className="mt-2 size-image-full" src="images/photoMeAbout.jpg" />
+                    <img title="LinkedIn" alt="Retrouvez moi sur Linkedin" className="mt-2 size-image-full" src="images/photoMeAbout.jpg" />
                 </a>
             </div>
             <div className="intro">A propos de moi</div>

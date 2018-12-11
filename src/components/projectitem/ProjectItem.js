@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './project-item.css';
 
 class ProjectItem extends Component {
 
@@ -18,7 +19,8 @@ class ProjectItem extends Component {
                     </div>
                     <div className="blog-text">
                         <p className="title-project text-color-blue font-weight-bold">{this.props.project.titleProject}</p>
-                        <a className="font-italic" data-toggle="modal" data-target=".myModal" href="#modal" onClick={this.changeModal.bind(this)}>Plus d'information</a>
+                        <button data-toggle="modal" data-target=".myModal" href="#modal" onClick={this.changeModal.bind(this)} type="button" class="btn btn-primary btn-sm mt-2">Plus d'information</button>
+                        {/* <a className="font-italic" data-toggle="modal" data-target=".myModal" href="#modal" onClick={this.changeModal.bind(this)}>Plus d'information</a> */}
                     </div>
                 </div>
             </div>

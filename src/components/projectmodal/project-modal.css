@@ -17,5 +17,5 @@
 .btn-secondary {
     color: #fff;
     background-color: rgb(41, 149, 212) !important;
-    border-color: #6c757d;
+    border-color: rgb(41, 149, 212) !important;
 }
