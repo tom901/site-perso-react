@@ -1,4 +1,20 @@
-# site-perso-react
-Site personnel en react 
+# Personal Web Site
 
-Hébergé sur Github
+Wrote with html/css/react
+
+## Installation
+
+```bash
+npm install -g serve
+```
+
+## Start server
+```bash
+serve -s build
+```
+
+## Deployment on github 
+```bash
+npm install gh-pages --save-dev
+```
+
