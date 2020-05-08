@@ -32,6 +32,11 @@ npm install gh-pages --save-dev
 Change remote from github : 
 git remote set-url origin https://github.com/tom901/tom901.github.io.git
 
+(
+get current remote url : 
+git config --get remote.origin.url
+)
+
 Start npm command to deploy on gitpage : gh-pages -b master -d build
 ```bash
 npm run deploy
