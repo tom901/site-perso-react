@@ -62,7 +62,6 @@ html {
 .intro-header-home {
 	background: url(/images/hero_bg.jpg) no-repeat center center;
 	background-size: cover;
-	min-height: 100vh !important;
 }
 /* Block of page */
 .block,
@@ -70,7 +69,7 @@ html {
  .main-home  {
 	display: flex;
 	flex-direction: column;
-	min-height: 70vh;
+	min-height: 100vh;
 	justify-content: center;
 	padding: 0 30px;
 	text-align: center;

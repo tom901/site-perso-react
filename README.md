@@ -6,6 +6,7 @@ Wrote with html/css/react
 ## Start
 
 ```bash
+npm install
 npm start
 ```
 ## Build for production
