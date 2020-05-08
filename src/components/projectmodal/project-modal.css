@@ -1,0 +1,21 @@
+.modal{
+    text-align: left;
+    font-size: initial;
+}
+.modal-header{
+    padding-bottom : 0px !important;
+}
+.title-modal{
+    color: rgb(41, 149, 212);
+    font-weight: 700;
+}
+.modal-title > p, 
+.modal-body > p  {
+    margin-top: 0;
+    margin-bottom: 0rem !important;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: rgb(41, 149, 212) !important;
+    border-color: rgb(41, 149, 212) !important;
+}
