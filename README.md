@@ -1,4 +1,4 @@
 # site-perso-react
 Site personnel en react 
 
-Héberger sur Github
+Hébergé sur Github
