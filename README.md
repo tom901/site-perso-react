@@ -31,7 +31,7 @@ serve -s build
 npm install gh-pages --save-dev
 ```
 Change remote from github : 
-git remote set-url origin https://github.com/tom901/tom901.github.io.git
+git remote set-url origin https://github.com/tparaiso/tparaiso.github.io.git
 
 (
 get current remote url : 
@@ -43,6 +43,6 @@ Start npm command to deploy on gitpage : gh-pages -b master -d build
 npm run deploy
 ```
 After re-change remote origin to project folder :
-git remote set-url origin https://github.com/tom901/site-perso-react.git
+git remote set-url origin https://github.com/tparaiso/site-perso-react.git
 
 Warning, if the url is not changed, code could be crush

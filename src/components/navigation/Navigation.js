@@ -30,6 +30,9 @@ class Navigation extends Component {
                         <li className="nav-item">
                             <a className="nav-link" href="#contactme">Contactez-moi</a>
                         </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href="https://dev-first.com/blog/" target="_blank" rel="noopener noreferrer">Blog</a>
+                        </li>
                     </ul>
 
                 </div>
